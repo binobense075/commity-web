@@ -31,3 +31,8 @@
 - Logout feature
 - Get the feed and add the feed in the store
 - Build the user card on feed.
+- Edit profile feature
+- Show toast message onSave of profile
+
+- S2E18
+- See all my connections
