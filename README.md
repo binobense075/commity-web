@@ -37,3 +37,10 @@
 - S2E18
 - New component to list all my connections.
 - New component to list all my connection requests.
+- Feature - Accept/Reject connection request
+
+Remaining
+
+- Send/Ignore the user card from the feed
+- SignUp new user
+- E2ETesting
