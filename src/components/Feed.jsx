@@ -25,6 +25,15 @@ const Feed = () => {
     getFeed();
   }, []);
 
+  if (!feed) return;
+
+  if (feed.length <= 0)
+    return (
+      <div className="text-center">
+        <h1>No new user found.</h1>
+      </div>
+    );
+
   return (
     feed && (
       <div className="flex justify-center my-10">
