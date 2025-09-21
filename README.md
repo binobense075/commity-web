@@ -35,4 +35,5 @@
 - Show toast message onSave of profile
 
 - S2E18
-- See all my connections
+- New component to list all my connections.
+- New component to list all my connection requests.
